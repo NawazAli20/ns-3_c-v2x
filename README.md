@@ -1,5 +1,3 @@
-<p>Hi there</p>
-<div>Adding a test line</div>
 
 # Cellular Vehicle-to-Everything (C-V2X) Mode 4 Communication Model for ns-3
 
